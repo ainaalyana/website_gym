@@ -23,6 +23,7 @@ body {
     .widget .footer-social-links {
         padding-top: 20px;
     }
+    
 }
 
 @media (max-width: 1400px) {
@@ -51,6 +52,7 @@ body {
         margin-bottom: 30px;
         padding: 0;
     }
+    
     .pbmit-element-static-box-style-1 .pbmit-ele-static-box .pbmit-contentbox {
         opacity: 1;
         visibility: visible;
